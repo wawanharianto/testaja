@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samesta/static/css/main.1cca067b.css",
+    "main.js": "/samesta/static/js/main.434a7dcf.js",
+    "static/js/787.852a2aab.chunk.js": "/samesta/static/js/787.852a2aab.chunk.js",
+    "index.html": "/samesta/index.html",
+    "main.1cca067b.css.map": "/samesta/static/css/main.1cca067b.css.map",
+    "main.434a7dcf.js.map": "/samesta/static/js/main.434a7dcf.js.map",
+    "787.852a2aab.chunk.js.map": "/samesta/static/js/787.852a2aab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cca067b.css",
+    "static/js/main.434a7dcf.js"
+  ]
+}
